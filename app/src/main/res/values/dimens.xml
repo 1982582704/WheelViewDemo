@@ -1,0 +1,31 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_pading_leftRight">10dp</dimen>
+
+    <!-- 选择圆角 -->
+    <dimen name="biground_size">7dp</dimen>
+
+    <!-- 字体大小 -->
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_button_normal">17sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="text_size_small2">14sp</dimen>
+
+    <dimen name="button_height">45dp</dimen>
+    <dimen name="item_height">45dp</dimen>
+
+    <!--首页秒杀图片 -->
+    <dimen name="item_img_miaosha_width">150dp</dimen>
+    <dimen name="item_img_miaosha_height">100dp</dimen>
+    <dimen name="item_img_miaosha_huodong">100dp</dimen>
+    <dimen name="item_img_miaoshaing_width">120dp</dimen>
+    <dimen name="item_img_miaoshaing_height">85dp</dimen>
+
+    <dimen name="item_line_height">5dp</dimen>
+    <dimen name="item_kaquan_height">135dp</dimen>
+    <dimen name="item_daikaquan_height">110dp</dimen>
+
+</resources>
